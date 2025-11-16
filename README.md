@@ -7,7 +7,7 @@ This repository contains several demo projects where I experimented with differe
 ## Projects
 
 ### 1. Vue Demo (`vue-demo`)
-- **Tech:** Vue.js + TypeScript
+- **Tech:** Vue.js + TypeScript + Tailwind
 - **Description:** A one-page scrolling site built while learning Vue and TypeScript. Demonstrates component structure, event handling, and smooth scrolling techniques.
 - **Folder:** `vue-demo/`
 
@@ -30,4 +30,4 @@ Each project is self-contained in its folder. To run a project:
 ```bash
 cd <project-folder>
 npm install
-npm run serve   # or npm start depending on the project
+npm run start/serve/dev   # depending on the project
