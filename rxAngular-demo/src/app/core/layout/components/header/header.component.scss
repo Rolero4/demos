@@ -1,0 +1,7 @@
+:host {
+    @apply top-0 flex items-center justify-center z-10;
+
+    .header {
+        @apply bg-green-900 text-white text-center  w-full pt-4;
+    }
+}
